@@ -1,0 +1,12 @@
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\ak\Desktop\all things\vs code\Calculator\Calculator\obj\Debug\Calculator.pdb
