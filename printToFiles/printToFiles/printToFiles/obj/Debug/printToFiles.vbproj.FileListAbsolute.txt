@@ -1,0 +1,11 @@
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\bin\Debug\printToFiles.exe.config
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\bin\Debug\printToFiles.exe
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\bin\Debug\printToFiles.pdb
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\bin\Debug\printToFiles.xml
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.vbprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.Resources.resources
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.vbproj.GenerateResource.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.vbproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.exe
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.xml
+C:\Users\ak\Desktop\all things\vs code\printToFiles\printToFiles\printToFiles\obj\Debug\printToFiles.pdb

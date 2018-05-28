@@ -1,0 +1,11 @@
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.Resources.resources
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.vbproj.GenerateResource.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.vbproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\bin\Debug\AdjoinString.exe.config
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\bin\Debug\AdjoinString.exe
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\bin\Debug\AdjoinString.pdb
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\bin\Debug\AdjoinString.xml
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.vbprojResolveAssemblyReference.cache
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.exe
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.xml
+C:\Users\ak\Desktop\all things\vs code\printToFiles\AdjoinString\AdjoinString\obj\Debug\AdjoinString.pdb
